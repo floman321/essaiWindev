@@ -1,0 +1,137 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Essai
+ major_version : 30
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Essai
+ identifier : 0x27c1b83b33381981
+ internal_properties : HgAAAB4AAAC+TmFhEJVXyH1PPooLkLqfTzcBtdt/XM5Vf8ppYfPIv4/PVh3c6q35aPRkgbg33u+PJk30EDocBALEls8hMCauqwS5hP4PBG5eXou+f5Nqs4+qd/yPy2KBD5rMKWPiWKYjJNQxwkKWpLAukgMMwj4n3T3vi0hqIhnvlXhP79A/mczeaGqCSqJpvXo7OMEpn5TockLSsW1QF+dA7iM3z8cnC+tyDsPA6yqJ1d5uUhpsQn0ISudvkUNMULwJ++fo3sXtp9WXtBDHXjoV2LEoo7Yg3mqKH9jpdakH4pxknlO7YHAHj0Sm8F1eyxLVGcf7GrP1iOfgY6UvigkWjGmU+n19KYsR/uUQp6bF20nxFBnLKb10sTY2V4HcJrZRrpaMiLGyjMR237MzeFDMEbnUewLBBNElzWZshvuQRB/WACpRV32F76TjUk+XGZEsJOyQXJ1z57VoCfuP+d2BcWgemx7idJU8UQ8SJzug7bOVdt545QzJnoZNQuzUqbFWDYnArDlqKxmRo/Am8i/XuiGx9/Qbw2kzn2jRQ/7IVGtj3sf8G3r0pAj50ITt53fOY5Uj9z/9iBmseErXK5W9GamWBunTngZrZFGfLciwNYtoW8UnCguXHGJikZtk3EBV5PGyPtPvW+T2c7bhjRdB0LHzbfYIdWYvMik02X/PO1zZQhZE30wO8lfuhusMgFgewC8F5BCZWV42+d/+/PYHcENtVqzHr7gqBhOqr1GmoEmRvmjvak67fwxbgMXlcFgnxbarev2Pcr//tZodbMsSc0SQS7TL1eh0tIHGMHHEax9nrDw9pFpo/6oi8uj8VZ3gRxlE53wWDXxhci7oSLHxiqaYJr8/ROSLvymKQfHfzwYw9z3XFgIzzgH/Ntj8lg==
+ properties :
+  width : 360
+  height : 569
+  heightMin : 650
+ style : {}
+ controls :
+  -
+    name : LIB_Florian
+    identifier : 0x27c1ba1233d24727
+    internal_properties : HgAAAB4AAADQpes99wR65ithdKMKMgF+C4W6ukfqWIjVHAfQqoNgXY0yGgMcT1sIDBHs00HbmOZKHShYHVfSr69ngGKGE9SPg80Nz5PqWCpiJ+oHbKTiHO/yjlkCiOHfPdx1Qo3434IqNJk1HJYq6qruQU60gbwsbXSjvGn/VA/e7q7dIf8ASVn09oepoevgEOr2K1Tho8LueepBYYR2X/OXGm2wgo32d+35O9g8LyAMyID3HNnY652jL3EkVnsmvCE+Dp51FIX9qWhoHsESWw5UzopXhsPjWO/SdvW/DCRb6mDmjt+xeyROqs6RVgXJaBNQVv9FBjsrd9WpxdsX6r2ZZLrYnOqhy3w0C0DEcFz4E6WC8TMev4FN+fVnksuB+tE8ivO5pPdhTIEWJoXBS5kP6fUI0o6sJ41KRTaIpxCpOy3vDJME/LPMQlJ8FM+TEjo=
+    properties :
+     x : 28
+     y : 81
+     width : 120
+     height : 19
+     caption : Florian
+     tab_stop : 0
+     take_focus : 0
+    style : {}
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x27c1b83b33391981
+  internal_properties : HgAAAB4AAAATUY9GNLipLZJ9FjC3QUcxZNO9KVZbgJtF/SfpAGlBFCZOev0Rpko+2+kKdvI9VuvZIMULfAmTIPvnFwc+Gbg+xASYCKp2QoUgAEKMUMPq0AY2On/Mu06s7Exwjb3dtAIV5S/2lmZ5SMFVMUQW3je8eXdHPPyg/dSW731iKhVeXeP06IHftqi1Ja4HHrWgL2DzKi38JtdjWI4RTWBs/Bmv9WjFkXHIrg5Y5njcUPY2W1AHqhYDvNYP+5HwvoxF07t8d22sOPhqbhkhLQHrv28yV19COiJXM4DNWFfqo6exgCT+j68GlIL+gjmKFA2y+1KZhYQu/3UUGQ==
+  properties : {}
+  style : {}
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      code : |1+
+       
+       
+      type : 18
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+    -
+      code : |1+
+       
+       
+      type : 17
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : HgAAAB4AAABGiXeuC8vYlPRxjpttCzMMO+NFS7EuWxoBt7u7klvuPrp+ajZ4Nscrzfp2NBIWr9rsnWMP5pwp/dx6lekVDeVVKRFJczMcyeDiaQ2gWYX6fcYb4HtpO6+JdxtD3g39r643p9STffgANBbDFxGWzWjCaiiMdI/HTB4I1ofcRcA9UjSMuwXRdOismrhCmsiIhxg2+6LMICFMzD3P2Y1kXZVjBLPtssfV5a2QNTSQSbHHFk145xjYPBJ+xPKaeEWWHNwMJW2QO0ZEMYyx1hCsTph03h11aNIZp74vBIY7Ww==
+  properties : {}
+  style : {}
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : HgAAAB4AAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+  procedures :
+   -
+     name : Nouvelle_Procédure
+     procedure_id : 1711856780345963429
+     type_code : 14
+     code : |1-
+      procédure Nouvelle_Procédure()
+      
+      info("florian")
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : HgAAAB4AAABGu6EiJ/jxFHbr8upwPu2gFd+Rrax3xqst2cbeAGL/kvx18Bt1qnm9SyuBDi/38Cs3tVl/c+6U6AscBvairzJlLvVWWMKEjwYYWaf50WlBOhMX
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x17c1b83802130d7b
+  internal_properties : HgAAAB4AAABAMjUMV7QDID/w1ht2apxNoqzgFZ9D9yeqqLyNaYCVgZd3uaiqlrTTnNJocLyQEIdHzw==
+custom_note :
+ internal_properties : HgAAAB4AAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : HgAAAB4AAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
