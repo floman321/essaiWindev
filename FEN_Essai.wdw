@@ -112,6 +112,18 @@ window :
       
       
      type : 2
+  procedures :
+   -
+     name : Nouvelle_Procédure
+     procedure_id : 1711856780345963429
+     type_code : 14
+     code : |1-
+      procédure Nouvelle_Procédure()
+      
+      info("florian")
+     type : 458752
+  procedure_templates : []
+  property_templates : []
  code_parameters :
   internal_properties : HgAAAB4AAABGu6EiJ/jxFHbr8upwPu2gFd+Rrax3xqst2cbeAGL/kvx18Bt1qnm9SyuBDi/38Cs3tVl/c+6U6AscBvairzJlLvVWWMKEjwYYWaf50WlBOhMX
   original_name : _11
