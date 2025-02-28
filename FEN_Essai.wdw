@@ -34,6 +34,23 @@ window :
     code_elements :
      type_code : 2
      p_codes : []
+  -
+    name : LIB_Nouvelle_version
+    identifier : 0x27c1ce8200b61d43
+    internal_properties : HgAAAB4AAADFtnjzecRuUtTt308Gk2yAvFYk0TG7zrXs9IAbBFd+p7P+UlHsDW54Pg2ppmLucBJQe9gO+T+t+8j6QdWMMk3pxIT7bCeJ4lyo/BO1koxUHAmB8gXvMFORNlwbrWp9Wn8/fZu9FGArC0r8CpVvZ2n0F9p0F6yYKuGQBBVmvEEqgoNLU+Ogoi9/dt4ZW/O2gr8TIqoMu4UavKCnL7AkSeVGp0XUeXPVgcfIMFMGqahMNotTL4Mb5Kk0V3uXde1oK8kA/V/cTQ02/d8BudQnNQ1AupiY7IZC0ciqURqO9bZLyFuJ6/1AaLbrS6UiVslfKO5GfwaCq7ZDxkDBVJCD7PGNc6Vel7mfdRQXDI2Lpns+1NDKfS+7rR8zGbQX/CPIbnyhZhHbtDi3dnHCciS8u49c81Z+PLACBrMR0DZU2XyW7nF7021ycuwt
+    properties :
+     x : 99
+     y : 198
+     width : 120
+     height : 19
+     caption : Nouvelle version
+     tab_stop : 0
+     take_focus : 0
+    style : {}
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  actionbar :
   name : ACTB_ActionBar
   identifier : 0x27c1b83b33391981
